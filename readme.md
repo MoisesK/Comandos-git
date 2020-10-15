@@ -6,7 +6,7 @@
 
 #### Este repositório guarda alguns dos principais comandos usados na CLI (Comand line interface). 
 
-![alt ](/home/moises/Documentos/GitComandos/Imagens/terminalbasico.gif) 
+![alt ](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
